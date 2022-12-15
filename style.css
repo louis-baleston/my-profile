@@ -1,0 +1,25 @@
+body {
+	background-color: rgb(243, 239, 224);
+	font-family: courier;
+}
+
+h1 {
+	color: rgb(34, 163, 159);
+	font-family: helvetica;
+	font-weight: lighter;
+	letter-spacing: 1px;
+}
+
+/* custon design with class*/
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+
+.btn-blue {
+	background color: blue;
+	color: blue;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
